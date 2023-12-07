@@ -1,0 +1,6 @@
+.banner{
+    background-image: url('./assets/burger.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
